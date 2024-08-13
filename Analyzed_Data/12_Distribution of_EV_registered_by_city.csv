@@ -1,0 +1,469 @@
+City,count
+Seattle,30045
+Bellevue,9116
+Redmond,6568
+Vancouver,6329
+Bothell,5961
+Kirkland,5465
+Sammamish,5350
+Renton,5104
+Olympia,4397
+Tacoma,3792
+Tukwila,3014
+Bellingham,2980
+Kent,2865
+Issaquah,2822
+Lynnwood,2789
+Spokane,2784
+Everett,2549
+Woodinville,2421
+"Mercer Island",2363
+Snohomish,2133
+Shoreline,1989
+"Gig Harbor",1977
+Edmonds,1932
+Auburn,1930
+"Bainbridge Island",1788
+Camas,1637
+"Maple Valley",1500
+"Federal Way",1453
+"Lake Stevens",1391
+Seatac,1377
+Puyallup,1348
+Bremerton,1336
+Marysville,1242
+"Port Orchard",1090
+Kenmore,1041
+"Bonney Lake",1021
+Ridgefield,964
+Lacey,960
+Richland,931
+Newcastle,915
+Burien,899
+Kennewick,899
+Snoqualmie,891
+Monroe,796
+Mukilteo,778
+Lakewood,773
+"North Bend",762
+"Spokane Valley",713
+Poulsbo,705
+"Mill Creek",701
+Anacortes,701
+"Lake Forest Park",698
+"University Place",698
+Yakima,687
+Tumwater,671
+"Mount Vernon",659
+Vashon,630
+Sequim,629
+"Port Townsend",623
+Duvall,621
+Washougal,596
+"Battle Ground",590
+"South Hill",563
+Covington,558
+Arlington,555
+Pasco,555
+"Des Moines",515
+"Oak Harbor",482
+"Camano Island",463
+"Mountlake Terrace",456
+"Friday Harbor",438
+"Port Angeles",437
+Stanwood,432
+Wenatchee,430
+Shelton,411
+Blaine,407
+Spanaway,393
+"Black Diamond",375
+Carnation,369
+Longview,359
+Silverdale,358
+Enumclaw,354
+Ferndale,354
+"Walla Walla",348
+Graham,337
+"Clyde Hill",336
+Medina,333
+"Lake Tapps",329
+"Moses Lake",310
+Centralia,303
+Ellensburg,293
+"Brush Prairie",286
+Yelm,284
+Edgewood,284
+Eastsound,283
+"East Wenatchee",278
+Kingston,273
+Langley,265
+"Normandy Park",265
+Leavenworth,264
+Pullman,262
+Buckley,239
+Brier,238
+Coupeville,229
+Lynden,229
+"Fall City",228
+Sumner,227
+"West Richland",226
+Clinton,223
+"Liberty Lake",217
+"Cle Elum",216
+Chehalis,208
+"La Center",207
+"Fox Island",203
+Sedro-Woolley,198
+Dupont,198
+Woodland,187
+Freeland,183
+Sultan,180
+Kelso,179
+Orting,172
+Steilacoom,164
+Aberdeen,164
+Cheney,164
+Chelan,164
+Burlington,160
+"Port Ludlow",156
+Fife,155
+"White Salmon",152
+"Granite Falls",151
+Belfair,151
+"Yarrow Point",150
+Greenacres,139
+Roy,138
+Fircrest,137
+"Ocean Shores",134
+"Lopez Island",133
+Eatonville,131
+Rochester,130
+Kalama,120
+"Nine Mile Falls",117
+Colbert,110
+Bow,106
+Lakebay,105
+Milton,104
+Ravensdale,101
+"La Conner",99
+Quincy,99
+Olalla,98
+Winthrop,96
+Tenino,93
+Selah,93
+"Joint Base Lewis Mcchord",91
+Seabeck,90
+Woodway,89
+Parkland,89
+Everson,88
+Montesano,84
+Allyn,79
+"Castle Rock",77
+Manson,77
+Greenbank,76
+Hansville,75
+Pacific,74
+Elma,72
+Cashmere,72
+Suquamish,70
+Mead,70
+"Deer Park",67
+"Medical Lake",66
+Ephrata,66
+Sunnyside,62
+Clarkston,62
+Indianola,61
+Prosser,61
+Hoquiam,60
+"Benton City",60
+Grapeview,59
+Colville,58
+Orondo,58
+Winlock,58
+Veradale,58
+"Point Roberts",57
+Rainier,56
+"College Place",56
+"Gold Bar",55
+"Hunts Point",54
+Stevenson,54
+Yacolt,53
+"Sedro Woolley",53
+"Beaux Arts",52
+Quilcene,51
+Cathlamet,51
+Hoodsport,50
+Nordland,48
+"Newman Lake",48
+Twisp,47
+"Long Beach",46
+Union,46
+"Port Hadlock",45
+Othello,43
+Ronald,43
+"Otis Orchards",43
+Olga,40
+"Lummi Island",39
+Newport,39
+"Anderson Island",38
+Toledo,37
+Algona,35
+Zillah,35
+Chattaroy,34
+Silverlake,33
+Chimacum,33
+Goldendale,32
+"Snoqualmie Pass",32
+Raymond,32
+Mossyrock,32
+Deming,32
+Concrete,32
+"Maple Falls",31
+Ruston,31
+Moxee,30
+Amboy,30
+Underwood,30
+Preston,30
+"Ocean Park",29
+"Airway Heights",29
+Mccleary,29
+"Kettle Falls",29
+Mattawa,28
+Custer,28
+Elk,27
+Tahuya,27
+Malaga,27
+Brinnon,26
+Naches,26
+Westport,26
+Vaughn,26
+Grandview,25
+"Trout Lake",25
+Colfax,25
+"Pacific Beach",25
+Lyle,25
+Onalaska,24
+Chewelah,23
+Mazama,23
+Palouse,22
+Carson,22
+Roslyn,22
+"Royal City",22
+Peshastin,22
+Entiat,22
+Easton,21
+Oakville,21
+Valleyford,21
+Tonasket,20
+"Soap Lake",20
+Surfside,20
+Ariel,19
+Oroville,19
+Longbranch,19
+Packwood,18
+Ritzville,18
+Husum,17
+Naselle,17
+Omak,17
+Brewster,16
+Dayton,16
+Burbank,16
+Ilwaco,16
+"Loon Lake",16
+Glacier,15
+Morton,15
+"Shaw Island",15
+Cosmopolis,15
+Sumas,14
+Snowden,14
+Spangle,14
+Toppenish,13
+Forks,13
+Ashford,13
+Davenport,13
+Wapato,12
+Outlook,12
+Asotin,12
+"Coulee City",12
+Darrington,11
+"North Bonneville",11
+"Silver Creek",11
+Mineral,11
+"Orcas Is",11
+"Rock Island",11
+"Fairchild Air Force Base",11
+Acme,11
+Granger,10
+"Union Gap",10
+Waitsburg,10
+Connell,10
+Nooksack,10
+Okanogan,9
+Seaview,9
+Republic,9
+"Grand Coulee",9
+Skykomish,8
+Tieton,8
+Grayland,8
+Vader,8
+Touchet,8
+Kittitas,8
+Carbonado,8
+Reardan,8
+Rosalia,8
+Dallesport,8
+Curlew,8
+Lilliwaup,8
+Napavine,8
+Menlo,8
+Keyport,7
+Mabton,7
+Bingen,7
+Warden,7
+"South Bend",7
+Randle,7
+"Bz Corner",7
+Curtis,7
+"North Cove",7
+Pateros,7
+Toutle,6
+Garfield,6
+Odessa,6
+Ethel,6
+Wilbur,6
+"Neah Bay",6
+Cusick,6
+Eltopia,6
+Thorp,6
+Valley,6
+Oysterville,6
+Tekoa,5
+Evans,5
+Salkum,5
+Mesa,5
+Mica,5
+Nahcotta,5
+"Coulee Dam",5
+Rockford,5
+Rice,5
+Carlton,5
+"Electric City",5
+"South Cle Elum",5
+Waterville,5
+Cowiche,4
+Tulalip,4
+Uniontown,4
+Skamokawa,4
+Edwall,4
+Wilkeson,4
+Glenoma,4
+"Bridgeport Bar",4
+Lincoln,4
+Baring,4
+Moclips,4
+Index,4
+Orcas,4
+Springdale,3
+Waldron,3
+Usk,3
+Clearlake,3
+Taholah,3
+Sekiu,3
+"Lopez Is",3
+Cinebar,3
+"Copalis Beach",3
+Riverside,3
+"Copalis Crossing",3
+"Seven Bays",3
+Wahkiacus,3
+Pomeroy,3
+Quinault,3
+Harrington,3
+Elbe,3
+Chinook,3
+Ford,3
+"Amanda Park",3
+Oakesdale,3
+Bridgeport,3
+Pasc,3
+"Clallam Bay",2
+Lind,2
+Ione,2
+Murdock,2
+Endicott,2
+Rockport,2
+Palisades,2
+Paterson,2
+Methow,2
+"Bay Center",2
+Roosevelt,2
+Satsop,2
+Waverly,2
+Cougar,2
+"St John",2
+"Deer Meadows",2
+Lakeview,2
+Marlin,2
+Tokeland,2
+"Elmer City",2
+Clayton,2
+Hartline,2
+Addy,2
+"Grays River",2
+"Port Gamble",2
+Artondale,2
+"South Prairie",2
+Mansfield,2
+Northport,2
+Hunters,2
+Colton,2
+Centerville,2
+Incorporated,2
+Marblemount,2
+Bucoda,1
+Kapowsin,1
+Rosburg,1
+Latah,1
+Lamont,1
+Beaver,1
+Malott,1
+Inchelium,1
+Hatton,1
+Hamilton,1
+"White Swan",1
+Gifford,1
+Danville,1
+"Pe Ell",1
+Frances,1
+Nespelem,1
+Lyman,1
+Stratford,1
+Lebam,1
+Rich,1
+Sprague,1
+"Walla Walla Co",1
+Dryden,1
+"Silver Lake",1
+"San Juan Is",1
+Alderdale,1
+"Prairie Ridge",1
+Wellpinit,1
+Keller,1
+"Smith Creek",1
+Tumtum,1
+"Bangor Base",1
+Washtucna,1
+Creston,1
+Plymouth,1
+"Deer Harbor",1
+Lacrosse,1
+Home,1
+Pros,1
+Vantage,1
+"Alderwood Manor",1
+Klickitat,1
+Almira,1
+Startup,1
+Glenwood,1
+Adna,1
+Maryhill,1
